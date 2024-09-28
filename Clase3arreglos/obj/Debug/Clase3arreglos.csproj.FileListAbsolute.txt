@@ -1,0 +1,7 @@
+C:\Users\CURLING\source\repos\Clase3arreglos\Clase3arreglos\bin\Debug\Clase3arreglos.exe.config
+C:\Users\CURLING\source\repos\Clase3arreglos\Clase3arreglos\bin\Debug\Clase3arreglos.exe
+C:\Users\CURLING\source\repos\Clase3arreglos\Clase3arreglos\bin\Debug\Clase3arreglos.pdb
+C:\Users\CURLING\source\repos\Clase3arreglos\Clase3arreglos\obj\Debug\Clase3arreglos.csproj.AssemblyReference.cache
+C:\Users\CURLING\source\repos\Clase3arreglos\Clase3arreglos\obj\Debug\Clase3arreglos.csproj.CoreCompileInputs.cache
+C:\Users\CURLING\source\repos\Clase3arreglos\Clase3arreglos\obj\Debug\Clase3arreglos.exe
+C:\Users\CURLING\source\repos\Clase3arreglos\Clase3arreglos\obj\Debug\Clase3arreglos.pdb
